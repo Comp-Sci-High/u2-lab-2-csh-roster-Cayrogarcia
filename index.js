@@ -10,11 +10,11 @@
 // Create an array for each class with the following names:
 // csRoster, mathRoster, elaRoster, ssRoster, electivesRoster (5 arrays total)
 // Each should contain 3 unique student names (you can make them up or use classmates)
-let csRrster = ["Murphy", "Murphyus", "Kenny"]
+let csRoster = ["Murphy", "Murphyus", "Kenny"]
 let mathRoster = ["Furina", "Arlechhino", "Dottore"]
 let elaRoster = ["Mia", "Belle", "Jonny"]
 let ssRoster = ["Aman", "simpson", "Kelly"]
-electiveRoster = [""]
+let electiveRoster = ["Donald", "kim", "putin"]
 
 
 
