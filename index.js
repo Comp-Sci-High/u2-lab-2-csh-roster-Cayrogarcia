@@ -24,14 +24,24 @@ let electiveRoster = ["Donald", "kim", "putin"]
 // Five new students enrolled at CSH: JP, Arnold, Peach, Laila, Jayden
 // Use the push() method to add ONE of these students to each roster:
 // Add JP → CS
+let csRoster = ["Murphy", "Murphyus", "Kenny"]
+csRoster.push("JP");
+
 // Add Arnold → Math
+let mathRoster = ["Furina", "Arlechhino", "Dottore"]
+mathRoster.push("Arnold");
+
 // Add Peach → ELA
+let elaRoster = ["Mia", "Belle", "Jonny"]
+elaRoster.push("Peach");
+
 // Add Laila → Social Studies
+let ssRoster = ["Aman", "simpson", "Kelly"]
+ssRoster.push("Laila");
+
 // Add Jayden → Electives
-
-
-
-
+let electiveRoster = ["Donald", "kim", "putin"]
+electiveRoster.push("Jayden");
 
 
 // ----------------------------------------------------------
