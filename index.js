@@ -13,7 +13,8 @@
 let csRrster = ["Murphy", "Murphyus", "Kenny"]
 let mathRoster = ["Furina", "Arlechhino", "Dottore"]
 let elaRoster = ["Mia", "Belle", "Jonny"]
-let ssRoster = [""]
+let ssRoster = ["Aman", "simpson", "Kelly"]
+electiveRoster = [""]
 
 
 
